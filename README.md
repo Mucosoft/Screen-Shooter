@@ -1,6 +1,6 @@
 # Screen-Shooter
 
-<center><img src="https://github.com/Mucosoft/Screen-Shooter/blob/main/20210310-145918.jpg" /></center>
+<img src="https://github.com/Mucosoft/Screen-Shooter/blob/main/20210310-145918.jpg" />
 
 Uygulamanın amacı ekran görüntüsü almak. En fazla 2 ekrana kadar sorunsuz destek veriyor.
 
