@@ -6,4 +6,4 @@ Uygulamanın amacı ekran görüntüsü almak. En fazla 2 ekrana kadar sorunsuz 
 
 ALT + 1 => 1. ekranı kaydetme<br/>
 ALT + 2 => 2. ekranı kaydetme<br/>
-CTRL + PrintScreen => Belirlenen ekranı kaydetme<br/>
+CTRL + PrintScreen => Farenin üzerindeki ekranı kaydetme<br/>
